@@ -1,0 +1,8 @@
+h1{
+    color: #000;
+}
+.header{
+    background-color: chartreuse;
+    display: flex;
+    justify-content:center;
+}
